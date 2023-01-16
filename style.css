@@ -115,6 +115,23 @@ label{
     padding: 30px;
     border-radius: 5px;
 }
+.back-btn{
+    padding:3px 10px;
+    outline: none;
+    border: none;
+    background: none;
+    color: #e62929;
+    /* font-weight: bold; */
+    border: 1px solid #efefef;
+    border-radius: 50%;
+    font-size: 20px;
+}
+.back-btn:hover{
+    cursor: pointer;
+    background: #e62929;
+    color: #efefef;
+    border-color: #e62929;
+}
 .country{
     display: flex;
     justify-content: center;
