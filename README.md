@@ -1,13 +1,11 @@
 <h1 style="text-align:center"><a href="https://py-piyush.github.io/country-info/">Country Info</a></h1>
 Display information of country along with weather data of the capital
-<hr>
-
-### Live: https://py-piyush.github.io/country-info/
-
-### Video Demo: https://youtu.be/E8Qj4tFIQEw
-
 - Search for any country using search bar, you'll see a list of countries
 - Click on view button to see information about the country
+
+#### Live: https://py-piyush.github.io/country-info/
+
+#### Video Demo: https://youtu.be/E8Qj4tFIQEw
 
 ### APIs Information
 
